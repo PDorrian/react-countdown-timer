@@ -1,4 +1,3 @@
 A countdown timer component that can be set, reset and paused.
 
-## Demo
-padd.ie/timer
+## [Demo](padd.ie/timer)
