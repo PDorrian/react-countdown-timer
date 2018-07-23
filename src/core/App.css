@@ -1,0 +1,9 @@
+.App 
+{
+  border: black solid 1px;
+  width: 300px;
+  height: 300px;
+  margin: 30px;
+  background-color: red;
+  padding: 0%;
+}

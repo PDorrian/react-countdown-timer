@@ -1,0 +1,36 @@
+.box
+{
+    width: 200px !important;
+    height: 150px !important;
+    margin: 20px !important;
+    padding: 0px !important;
+}
+
+.clock
+{
+    margin: 10px;
+    height: 130px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.start
+{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 85px;
+}
+
+.reset
+{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 85px;
+}
+
+.set
+{
+    margin-right: 10px !important;
+}
